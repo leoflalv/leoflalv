@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋. I'm Leonardo 😄</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**leoflalv/leoflalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/leonardo-fleitas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-fleitas" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+### **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in Outtask,  a consulting company as a Software Engineer
+- 🌱 I’m currently improving my Go skills
+- 👯 I’m looking to collaborate on Go open source projects
+- 📫 How to reach me: leoflalv@gmail.com
+
+
