@@ -7,9 +7,9 @@
 
 ### **About me**
 
-- 🔭 I’m currently working in Outtask,  a consulting company as a Software Engineer
-- 🌱 I’m currently improving my Go skills
-- 👯 I’m looking to collaborate on Go open source projects
+- 🔭 I’m currently working in Getpaid, a fintech startup as a Software Engineer
+- 🌱 I’m currently improving my Rust and Go skills
+- 👯 I’m looking to collaborate on Rust open source projects
 - 📫 How to reach me: leoflalv@gmail.com
 
 
